@@ -2,9 +2,36 @@
 
 ## Graduate Projects
 
-### <ins>Master's Thesis</ins>: *"State parameter estimation of Li-ion battery using Deep Neural Networks and Equivalent circuit model"* <br>
+### <ins>Master's Thesis Mid-Term Report</ins>: *"States estimation of lithum ion battery using data driven methods"* <br>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhakalAmrit/Academic/tree/main/Masters_Thesis)
+[![Open PDF](https://img.shields.io/badge/PDF-Read%20Mid%20term%20Report%20PDF-red?logo=adobe-acrobat-reader)](https://github.com/DhakalAmrit/Academic/blob/main/Masters_Thesis/DHAKAL%20AMRIT--Masters_Mid-Term_Report.pdf)
+[![Open PDF](https://img.shields.io/badge/PDF-View%20Slides%20PDF-red?logo=adobe-acrobat-reader)](https://github.com/DhakalAmrit/Academic/blob/main/Masters_Thesis/DHAKAL%20AMRIT--Masters_Mid-Term_Slides.pdf)
 
 
+_Key Skills: Matlab, Python (PyTorch, scipy, sklearn), Battery SOH & RUL estimation_
+
+This shows the progress report on the Master Thesis following the battery cycling experiments and AI based model especially IPEformer which is the use of lightweight start-of-art time series transformer for battery SOH and RUL estimation.
+- It also shows the battery cycling experiments on 2200 mAh cyclindrical cells conduted in lab.
+- There are four other dataset used for model validation on public dataset as well.
+- 67 Handcrafted feature extraction for all five datasets using matlab.
+<center><img src="images/battery_cycling_experiments.png"/></center> 
+![alt text](image.png)
+
+### <ins>PHM Conference Paper</ins>: *"Battery Prognostics and Health Management Using CNN-BiGRU with Temporal Attention on CS2 Cells"* <br>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhakalAmrit/Academic/tree/main/Publications)
+[![Open PDF](https://img.shields.io/badge/PDF-Read%20Conference%20Paper%20PDF-red?logo=adobe-acrobat-reader)](https://github.com/DhakalAmrit/Academic/blob/main/Publications/PHM_XI_AN_Conf_2025.pdf)
+[![Open PDF](https://img.shields.io/badge/PDF-View%20Poster%20PDF-red?logo=adobe-acrobat-reader)](https://github.com/DhakalAmrit/Academic/blob/main/Publications/PHM_Academic_forum_%20Poster.pdf)
+
+
+_Key Skills: Python (PyTorch, scipy, sklearn), Battery PHM, CNN-BiGRU-Temporal Attention, BMS_
+
+Lithium-ion batteries (LiBs) are reliable and efficient energy sources; they are extensively employed worldwide
+in modern energy storage systems. The State of Health (SOH) and Remaining Useful Life (RUL) are considered some of the critical parameters for monitoring battery performance and safety. SOH and RUL reflect the battery’s overall condition, functionality, and remaining lifespan. Their accurate estimation is essential for ensuring safe operation, effective energy management, and extension of battery’s service life. However, to meet the demands of
+real-world applications, the accuracy of SOH and RUL estimation must be further improved. This research work proposes a Deep Learning (DL) based method that combines Convolutional Neural Network (CNN), Bidirectional Gated Recurrent Unit (BiGRU), and temporal attention for the SOH and RUL estimation of LiBs. The proposed architecture was tested through leave-one out cross-validation (LOOCV). It achieved a Mean Absolute Error (MAE) of 0.0072, a Root Mean Squared Error (RMSE) of 0.0121, and a coefficient of determination (R2) of 0.9965 on group I of the Center for Advanced Life Cycle Engineering (CALCE) CS2-type LiBs dataset. Compared prediction results with other DL based models, including CNN, Long Short-Term Memory (LSTM), CNN-Bidirectional LSTM (CNN-BiLSTM), and BiLSTM-Gated Recurrent Unit (BiLSTM-GRU), showing that our proposed method performed better in term of SOH and RUL estimation and also providing better solution for battery management system (BMS).
+
+<center><img src="images/Xi_an_Conf_2025.png"/></center> 
+
+### <ins>Master's Thesis Prposal</ins>: *"State parameter estimation of Li-ion battery using Deep Neural Networks and Equivalent circuit model"* <br>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhakalAmrit/Academic/tree/main/Masters_Thesis)
 [![Open PDF](https://img.shields.io/badge/PDF-Read%20Thesis%20Proposal%20PDF-red?logo=adobe-acrobat-reader)](https://github.com/DhakalAmrit/Academic/blob/main/Masters_Thesis/DHAKAL%20AMRIT--Masters_Proposal_Report.pdf)
@@ -27,8 +54,6 @@ Developing an accurate <b>Data-Driven Battery Model</b> using <b>python(PyBamm, 
 <b>Electric Vehicle (EV) simulations</b>, considering various driving profiles and ambient temperature conditions.
 
 <center><img src="images/battery_tests.png"/></center> 
-
-
 
 ### Lithium ion battery State of Charge estimation using Bidirectional Long Short Term Memory(BiLSTM)
 
@@ -73,8 +98,6 @@ A <b>web-based stock price visualization tool</b> that retrieves and displays <b
 The project features an <b>interactive interface</b> where users can enter stock tickers, select date ranges, and generate <b>real-time time-series charts</b>. It leverages <b>yfinance</b> for retrieving financial data, <b>pandas</b> for data manipulation, and <b>Streamlit</b> for building an interactive UI.
 
 <center><img src="images/stock_app.png"/></center> 
-
-
 
 ## Undergratuate Projects
 
@@ -142,6 +165,7 @@ Responsible for CAD design manufacturing and presentation of a small sounding ro
 ### Awards and Certificates
 <b> Awards:</b>
 
+* Second Prize on Poster Competition Belt and Road Academic Forum 2025
 * CSC scholarship 2023-2026(M.S. in Aeronautical and Astronautical Technologies)
 * NPU Presidential Scholarship 2019-2023 (B.Sc. in Aerospace Engineering)
 * Outstanding Graduate 2023(Graduation with Honors)
