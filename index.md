@@ -13,9 +13,9 @@ _Key Skills: Matlab, Python (PyTorch, scipy, sklearn), Battery SOH & RUL estimat
 This shows the progress report on the Master Thesis following the battery cycling experiments and AI based model especially IPEformer which is the lightweight state-of-art time series transformer (TST) for battery SOH and RUL estimation.
 - It also shows the battery cycling experiments on 2200 mAh cyclindrical cells conduted in lab.
 - There are four other dataset used for model validation on public dataset as well.
-- 67 Handcrafted feature extraction for all five datasets using matlab.
+- 67 Handcrafted feature extraction for all five datasets using matlab (Check out the Slide pdf for more details).
 <center><img src="images/battery_cycling_experiments.png"/></center> 
-![alt text](image.png)
+
 
 ### <ins>PHM Conference Paper</ins>: *"Battery Prognostics and Health Management Using CNN-BiGRU with Temporal Attention on CS2 Cells"* <br>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhakalAmrit/Academic/tree/main/Publications)
