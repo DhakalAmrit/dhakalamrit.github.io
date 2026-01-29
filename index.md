@@ -2,7 +2,7 @@
 
 ## Graduate Projects
 
-### <ins>Master's Thesis Mid-Term Report</ins>: *"States estimation of lithum ion battery using data driven methods"* <br>
+### <ins>Master's Thesis </ins>: *"States estimation of lithum ion battery using data driven methods"* <br>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhakalAmrit/Academic/tree/main/Masters_Thesis)
 [![Open PDF](https://img.shields.io/badge/PDF-Read%20Mid%20term%20Report%20PDF-red?logo=adobe-acrobat-reader)](https://github.com/DhakalAmrit/Academic/blob/main/Masters_Thesis/DHAKAL%20AMRIT--Masters_Mid-Term_Report.pdf)
 [![Open PDF](https://img.shields.io/badge/PDF-View%20Slides%20PDF-red?logo=adobe-acrobat-reader)](https://github.com/DhakalAmrit/Academic/blob/main/Masters_Thesis/DHAKAL%20AMRIT--Masters_Mid-Term_Slides.pdf)
@@ -16,6 +16,11 @@ This shows the progress report on the Master Thesis following the battery cyclin
 - 67 Handcrafted feature extraction for all five datasets using matlab (Check out the Slide pdf for more details).
 <center><img src="images/battery_cycling_experiments.png"/></center> 
 
+### <ins>Practical project</ins>: BMS algorithm developement using Matlab/Simulink and C-Code generation for HIL testing
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhakalAmrit/BMS-projects)
+
+Developed Matlab/simulink model for real-time battery states estimation SOC, SOH, SOCPack and balancing. The simulink diagrams are shown below:
+![alt text](images/BMS.png)
 
 ### <ins>PHM Conference Paper</ins>: *"Battery Prognostics and Health Management Using CNN-BiGRU with Temporal Attention on CS2 Cells"* <br>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhakalAmrit/Academic/tree/main/Publications)
@@ -31,7 +36,7 @@ real-world applications, the accuracy of SOH and RUL estimation must be further 
 
 <center><img src="images/Xi_an_Conf_2025.png"/></center> 
 
-### <ins>Master's Thesis Prposal</ins>: *"State parameter estimation of Li-ion battery using Deep Neural Networks and Equivalent circuit model"* <br>
+### <ins>Master's Thesis Proposal</ins>: *"State parameter estimation of Li-ion battery using Deep Neural Networks and Equivalent circuit model"* <br>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhakalAmrit/Academic/tree/main/Masters_Thesis)
 [![Open PDF](https://img.shields.io/badge/PDF-Read%20Thesis%20Proposal%20PDF-red?logo=adobe-acrobat-reader)](https://github.com/DhakalAmrit/Academic/blob/main/Masters_Thesis/DHAKAL%20AMRIT--Masters_Proposal_Report.pdf)
